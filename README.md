@@ -1,35 +1,50 @@
 # 🎓 StudyTimeline
 
-![StudyTimeline Hero/Banner](<!-- Add hero image URL here -->)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://study-timeline-eight.vercel.app)
 
-**StudyTimeline** is a highly visual, personal-use web application designed to transform passive YouTube studying into an active, organized, and highly efficient revision process. [Live Link: https://study-timeline-eight.vercel.app/]
+**Live Website:** [study-timeline-eight.vercel.app](https://study-timeline-eight.vercel.app)
 
-Instead of dealing with endless, unorganized YouTube bookmarks or manually scrubbing through 2-hour lectures to find that *one* important formula, StudyTimeline allows you to build a structured library, annotate specific timestamps, and generate automated revision playlists right before your exams.
+## 🎯 The Pitch: Why I Built This
 
-## ✨ Key Features
+**The Problem:**
+While preparing for exams, I relied heavily on YouTube for educational lectures. However, a major pain point was that these videos are often 2 to 3 hours long. When revising a day before the exam, I didn't have time to re-watch the entire video or scrub through trying to find that *one* crucial 5-minute formula derivation or concept explanation. Jotting down timestamps in a physical notebook was tedious and didn't let me seamlessly jump between important segments.
 
-- **📚 Structured Library:** Organize your YouTube lectures into a clean hierarchy of **Subjects** and **Chapters**.
-- **🎬 Smart Video Player:** Watch YouTube videos directly in the app without distractions.
-- **🔖 Segment Tagging:** Use keyboard shortcuts (`M`) to instantly mark start and end times for crucial parts of a video. 
-- **🏷️ Importance Levels:** Tag your segments with priority levels (*Critical, Very Important, Important, Useful, Optional*) and add personal notes.
-- **🧠 Revision Engine:** Exam tomorrow? Tell the app you have 30 minutes, select your subject, and it will generate a custom, continuous playlist of only your highest-priority segments to maximize your study time.
-- **🔒 Privacy First:** Your data is completely private. The app uses Firebase Anonymous Authentication to silently secure your data to your local device without requiring a manual login.
+**The Solution:**
+I created **StudyTimeline** to transform passive YouTube watching into an active, organized revision system. It allows me to build a structured library, watch videos without distractions, and most importantly, mark specific start and end times (segments) for important parts of a lecture. When it's time to revise, the app's Revision Engine pieces together these crucial segments into a customized, continuous playlist based on how much time I have.
 
 ---
 
-## 📸 Screenshots
+## 📸 App Walkthrough & Features
 
-### The Library Dashboard
-*Easily view and manage all your subjects and chapters.*
-![Library Dashboard Screenshot](<!-- Add Library screenshot URL here -->)
+### 1. Home Dashboard
+*Your personalized space to get an overview of your study progress and quick access to recent topics.*
+![Home Dashboard](images/home.png)
+![Home Details](images/home-2.png)
 
-### Smart Lecture Player & Segment Editor
-*Watch lectures, mark important timestamps, and take notes.*
-![Lecture Player Screenshot](<!-- Add Player screenshot URL here -->)
+### 2. Structured Library
+*Organize your YouTube lectures into a clean hierarchy of Subjects and Chapters so you never lose track of a topic.*
+![Library Section](images/library-section.png)
 
-### Revision Mode Engine
-*Generate a smart playlist based on your available study time.*
-![Revision Mode Screenshot](<!-- Add Revision mode screenshot URL here -->)
+### 3. Adding Content
+*Easily add new lectures to your library by simply providing the YouTube video link.*
+![Add Content](images/add-content.png)
+
+### 4. Smart Lecture Player
+*Watch YouTube videos directly in the app with a distraction-free player optimized for studying.*
+![Lecture Player](images/lecture-player.png)
+
+### 5. Segment Marking
+*The core feature: Use keyboard shortcuts to instantly mark the start and end times for crucial parts of a video.*
+![Segment Mark](images/segment-mark.png)
+
+### 6. Notes & Annotations
+*Attach personal notes, priority levels (e.g., Critical, Important), and reference resources directly to your specific segments.*
+![Note Section](images/note-section.png)
+![PDF Section](images/PDF-section.png)
+
+### 7. Revision Engine
+*Exam tomorrow? Tell the app you have 30 minutes, select a subject, and it generates a custom, continuous playlist of only your highest-priority segments.*
+![Revision Mode](images/revesion-mode.png)
 
 ---
 
