@@ -1,6 +1,19 @@
 # 🎓 StudyTimeline
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://study-timeline-eight.vercel.app)
+<p align="center">
+  <img src="images/home.png" alt="StudyTimeline Hero" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Active+Revision;Distraction-Free+Learning;Time+Segment+Marking&center=true&width=500&height=50" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
 **Live Website:** [study-timeline-eight.vercel.app](https://study-timeline-eight.vercel.app)
 
@@ -18,33 +31,37 @@ I created **StudyTimeline** to transform passive YouTube watching into an active
 
 ### 1. Home Dashboard
 *Your personalized space to get an overview of your study progress and quick access to recent topics.*
-![Home Dashboard](images/home.png)
-![Home Details](images/home-2.png)
+<p align="center">
+  <img src="images/home.png" width="49%" />
+  <img src="images/home-2.png" width="49%" />
+</p>
 
-### 2. Structured Library
-*Organize your YouTube lectures into a clean hierarchy of Subjects and Chapters so you never lose track of a topic.*
-![Library Section](images/library-section.png)
+### 2. Structured Library & Adding Content
+*Organize your YouTube lectures into a clean hierarchy. Easily add new lectures by providing the YouTube video link.*
+<p align="center">
+  <img src="images/library-section.png" width="49%" />
+  <img src="images/add-content.png" width="49%" />
+</p>
 
-### 3. Adding Content
-*Easily add new lectures to your library by simply providing the YouTube video link.*
-![Add Content](images/add-content.png)
+### 3. Smart Lecture Player & Segment Marking
+*Watch YouTube videos without distractions. Use keyboard shortcuts to instantly mark start and end times for crucial parts of a video.*
+<p align="center">
+  <img src="images/lecture-player.png" width="49%" />
+  <img src="images/segment-mark.png" width="49%" />
+</p>
 
-### 4. Smart Lecture Player
-*Watch YouTube videos directly in the app with a distraction-free player optimized for studying.*
-![Lecture Player](images/lecture-player.png)
-
-### 5. Segment Marking
-*The core feature: Use keyboard shortcuts to instantly mark the start and end times for crucial parts of a video.*
-![Segment Mark](images/segment-mark.png)
-
-### 6. Notes & Annotations
+### 4. Notes & Annotations
 *Attach personal notes, priority levels (e.g., Critical, Important), and reference resources directly to your specific segments.*
-![Note Section](images/note-section.png)
-![PDF Section](images/PDF-section.png)
+<p align="center">
+  <img src="images/note-section.png" width="49%" />
+  <img src="images/PDF-section.png" width="49%" />
+</p>
 
-### 7. Revision Engine
+### 5. Revision Engine
 *Exam tomorrow? Tell the app you have 30 minutes, select a subject, and it generates a custom, continuous playlist of only your highest-priority segments.*
-![Revision Mode](images/revesion-mode.png)
+<p align="center">
+  <img src="images/revesion-mode.png" width="80%" />
+</p>
 
 ---
 
