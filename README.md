@@ -2,7 +2,7 @@
 
 ![StudyTimeline Hero/Banner](<!-- Add hero image URL here -->)
 
-**StudyTimeline** is a highly visual, personal-use web application designed to transform passive YouTube studying into an active, organized, and highly efficient revision process. 
+**StudyTimeline** is a highly visual, personal-use web application designed to transform passive YouTube studying into an active, organized, and highly efficient revision process. [Live Link: https://study-timeline-eight.vercel.app/]
 
 Instead of dealing with endless, unorganized YouTube bookmarks or manually scrubbing through 2-hour lectures to find that *one* important formula, StudyTimeline allows you to build a structured library, annotate specific timestamps, and generate automated revision playlists right before your exams.
 
